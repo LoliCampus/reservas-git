@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+venv/
+
+# Configuración del IDE y del sistema
+.idea/
+.vscode/
+.DS_Store
+
+# Compilados y registros
+*.log
+build/
+
+# Información sensible
+.env
